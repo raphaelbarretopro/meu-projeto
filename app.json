@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "meu-projeto",
-    "slug": "meu-projeto",
+    "slug": "projeto-teste-slug",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -43,6 +43,13 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "cebce8cf-c047-4bea-85c6-afed8670436e"
+      }
+    },
+    "owner": "raphael2026"
   }
 }
